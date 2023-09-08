@@ -1,0 +1,2 @@
+output:
+Value of t: 0

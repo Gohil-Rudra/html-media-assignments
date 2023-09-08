@@ -1,0 +1,3 @@
+output:
+First character  1 
+Second character 49
