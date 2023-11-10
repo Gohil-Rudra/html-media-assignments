@@ -1,0 +1,17 @@
+6.Predict the output.
+
+int main()
+{
+int sub[50], i ;
+for ( i = 0 ; i <= 48 ; i++ ) ;
+{
+sub[i] = i ;
+cout<<sub[i]<<endl ;
+}
+return 0;
+}
+
+Output:
+49 
+as for loop(notice the semicolon) will make i = 49 (as i=48, i-->49 and loop breaks) thus sub[49]=49 and will give
+output as 49.
